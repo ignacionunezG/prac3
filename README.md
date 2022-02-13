@@ -2,7 +2,7 @@
 
 
 ·Ejecutas index.html.
-·En indx.html, en el header, hay Links a redes sociales de Inditex, a su localización y a la página web real.
+·En index.html, en el header, hay Links a redes sociales de Inditex, a su localización y a la página web real.
 ·En el carousel, tienes botones para poder acceder a las páginas de:   
     ·historia
     ·diseños
